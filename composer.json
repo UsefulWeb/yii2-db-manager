@@ -2,7 +2,7 @@
     "name":"useful-web/yii2-db-manager", 
     "type":"library",
     "description":"Extended DbManager for Yii2",
-    "keywords":["phpHypher", "hyphenation", "hyphenate"],
+    "keywords":["yii2","DbManager"],
     "homepage":"https://github.com/UsefulWeb/yii2-db-manager",
     "license":"New BSD",
     "authors":[
