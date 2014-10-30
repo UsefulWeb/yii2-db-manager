@@ -16,5 +16,6 @@ class DbManager extends yii\rbac\DbManager
         ->createCommand()
         ->delete($this->assignmentTable,['item_name' => $roleName,'user_id'=>$users])
         ->execute();
+        
     }
 }
